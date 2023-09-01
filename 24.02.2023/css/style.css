@@ -1,0 +1,370 @@
+.intend {
+    margin: 450px;
+}
+.bulb{
+    width: 15px;
+    height: 10px;
+    border: 1px solid grey;
+    border-radius: 12px 15px 0 0;
+    background-color: #ffee70;
+    position: absolute;
+    left: 610px;
+    bottom: 191px;
+
+}
+
+.frame {
+    width: 650px;
+    height: 40px;
+    border: 1px solid grey;
+    background-color: #ffea00;
+    border-radius: 0 25px 0 0;
+
+}
+
+.frame_bottom {
+    width: 555px;
+    height: 100px;
+    border: 1px solid grey;
+    background-color: #ffea00;
+    position: relative;
+    top: 50px;
+    z-index: 1;
+}
+
+.horizontal_line_back {
+    width: 554px;
+    height: 2px;
+    background-color: #ffea00;
+    border: 1px solid grey;
+    position: absolute;
+    bottom: 146px;
+    left: 0;
+}
+
+.horizontal_line_back_two {
+    position: absolute;
+    bottom: 123px;
+}
+
+.horizontal_line_back_three {
+    position: absolute;
+    bottom: 100px;
+}
+
+.vertical_line_back {
+    width: 4px;
+    height: 45px;
+    background-color: #ffea00;
+    border: 1px solid grey;
+    position: absolute;
+    bottom: 103px;
+    left: 0;
+}
+
+.vertical_line_back_two {
+    position: absolute;
+    left: 50px;
+}
+
+.vertical_line_back_three {
+    position: absolute;
+    left: 150px;
+}
+
+.vertical_line_back_four {
+    position: absolute;
+    left: 250px;
+}
+
+.vertical_line_back_five {
+    position: absolute;
+    left: 350px;
+}
+
+.vertical_line_back_six {
+    position: absolute;
+    left: 450px;
+}
+
+.vertical_line_back_seven {
+    position: absolute;
+    left: 550px;
+}
+
+.vertical_line_back_four {
+}
+
+.shadow {
+    width: 750px;
+    height: 82px;
+    background-color: #000000;
+    border-radius: 12px;
+    position: absolute;
+    top: 567px;
+    z-index: 0;
+}
+
+img {
+    width: 65px;
+    height: 65px;
+
+}
+
+.img_moving {
+    position: absolute;
+    bottom: 71px;
+    left: 568px;
+    z-index: 0;
+}
+
+.img_moving_kail {
+    position: absolute;
+    left: 465px;
+    z-index: 0;
+}
+
+.img_moving_sten {
+    position: absolute;
+    left: 589px;
+    z-index: 0;
+}
+
+.img_moving_cartmen {
+    position: absolute;
+    left: 759px;
+    z-index: 0;
+}
+
+.img_moving_canny {
+    position: absolute;
+    left: 920px;
+    z-index: 0;
+}
+
+
+.bumper {
+    width: 35px;
+    height: 35px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: #7c8a98;
+    position: absolute;
+    left: -12px;
+    bottom: -10px;
+}
+
+
+.prop {
+    width: 25px;
+    height: 103px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #ffea00;
+    position: absolute;
+    bottom: -7px;
+    left: 630px;
+    z-index: 1;
+}
+
+.glass {
+    width: 1px;
+    height: 60px;
+    border: 1px solid grey;
+    border-radius: 12px;
+    position: absolute;
+    left: 648px;
+    bottom: 90px;
+}
+
+.stripes_color_black {
+    background-color: black;
+
+}
+
+.text {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.stripes, .stripes_color_black {
+    margin-top: 3px;
+    width: 554px;
+    height: 5px;
+    border: 1px solid black;
+    box-shadow: 0 1px;
+    background-color: #ffee70;
+}
+
+.engine_compartment {
+    width: 110px;
+    height: 100px;
+    border: 1px solid grey;
+    border-radius: 0 30px 12px 0;
+    background-color: #ffea00;
+    position: absolute;
+    top: 548px;
+    left: 1110px;
+    z-index: 0;
+}
+
+.engine_compartment_line {
+    width: 100px;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 100px 100px 0 0;
+    background-color: black;
+    position: absolute;
+    left: 4px;
+    top: 50px;
+}
+
+.engine_compartment_back {
+    width: 100px;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 100px 100px 0 0;
+    background-color: black;
+    position: absolute;
+    left: 70px;
+    top: 51px;
+}
+
+.door_moving_two {
+    position: absolute;
+    top: 100px;
+    left: 38px;
+}
+
+.horizontal_line, .horizontal_line_two {
+    width: 35px;
+    height: 7px;
+    background-color: #ffea00;
+
+    border-radius: 15px;
+    position: absolute;
+    bottom: 143px;
+    left: 556px;
+}
+
+.vertical_line {
+    width: 7px;
+    height: 150px;
+
+    background-color: #ffea00;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 556px;
+}
+
+.vertical_line_two {
+    position: absolute;
+    bottom: 0;
+    left: 586px;
+}
+
+.moving_line_two {
+    position: absolute;
+    bottom: 95px;
+    left: 556px;
+
+}
+
+.moving_line_three {
+    position: absolute;
+    bottom: 0;
+    left: 558px;
+}
+
+.fender {
+    width: 104px;
+    height: 70px;
+    border: 1px solid grey;
+    border-radius: 12px 100px 15px 0;
+    position: absolute;
+    top: 27px;
+    left: 4px;
+}
+
+.hood {
+    width: 108px;
+    height: 23px;
+    border: 1px solid grey;
+    border-radius: 0 82px 0 0;
+}
+
+.headlight {
+    width: 10px;
+    height: 25px;
+    background-color: #7c8a98;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 50px;
+    left: 108px;
+    z-index: 0;
+}
+
+.bumper_before {
+    width: 25px;
+    height: 25px;
+    background-color: #7c8a98;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 100px;
+    z-index: 0;
+}
+
+.wheel, .wheel_two {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: #333335;
+    transform: rotateY(1deg);
+}
+.line_whith{
+    width: 94px;
+    border: 2px solid white;
+    position: absolute;
+    top: 45px;
+    left: 0;
+    transform: rotate(335deg);
+}
+
+.disk, .disk_two {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: #7c8a98;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.part_disk {
+    width: 45px;
+    height: 45px;
+    border: 2px solid black;
+    border-radius: 100%;
+    position: absolute;
+    top: 6px;
+    left: 6px;
+}
+
+.moving_wheel {
+    position: absolute;
+    top: 604px;
+    left: 530px;
+    z-index: 1;
+}
+
+.moving_wheel_two {
+    position: absolute;
+    top: 604px;
+    left: 1115px;
+    z-index: 1;
+}
+
